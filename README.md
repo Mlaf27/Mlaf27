@@ -7,4 +7,5 @@ Currently, I work as a **Data Architect & Strategist** on academic consulting pr
 **[PDF-Ingestion-Pipeline](https://github.com/MlafontF27/PDF-Ingestion-Pipeline)** - A robust data extraction and processing solution designed for enterprise-level document handling. This project demonstrates my ability to build scalable pipelines for data ingestion and transformation.
 
 **[Spotify-Recommendation-Model](https://github.com/MlafontF27/Spotify-Recommendation-Model)** - A machine learning system that generates personalized playlist recommendations using hierarchical clustering techniques. This project showcases my skills in unsupervised learning and applying clustering algorithms to real-world music recommendation systems.
+
 Open to discussing data science opportunities, collaboration, or interesting projects. Feel free to explore my repositories and reach out!
